@@ -2,6 +2,10 @@
 
 ## Future Polars v0.13
 
+### py-polars 0.7.0
+* feature
+  - \[python | rust\] methods for local peak finding in numerical series
+
 ### py-polars 0.6.6
 * performance
   - \[python | rust\] categorical type groupby keys (use size hint)
