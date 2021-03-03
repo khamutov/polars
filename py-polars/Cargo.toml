@@ -22,7 +22,7 @@ ndarray = "0.14.0"
 
 [lib]
 name = "pypolars"
-crate-type = ["cdylib"]
+crate-type = ["cdylib", "rlib"]
 
 
 [package.metadata.maturin]
